@@ -1,11 +1,27 @@
 h1{
     color: black;
+    padding:90;
     
 }
 body{
-    background-color:whute;
-    background-image:
-    url(https://i.ibb.co/2Pv2CBq/image.jpg)
+    margin:0;
+    padding:0;
+    
+}
+h1{
+    color:black;
+    margin:0;
+}
+.container{
+    background-image:url(https://i.ibb.co/2Pv2CBq/image.jpg) ;
+}
+.main{
+    width: 90%;
+    margin:0 auto;
+    background-color: white;
+}
+h2{
+
 }
 li{
     
