@@ -1,0 +1,20 @@
+h1{
+    color: rgb(216, 155, 235);
+    
+}
+body{
+    background-color:rgb(241, 225, 228);
+}
+li{
+    list-style:none;
+    list-style:none;
+padding:20px 30px 20px 30px;
+
+    }
+ ul{
+        display:flex;
+        }
+.header{
+
+    background-color: white;
+}
