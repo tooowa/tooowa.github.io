@@ -1,7 +1,10 @@
 h1{
     color: black;
-    font-size: 200pxs;
+    font-size: 80px;
     text-align: center ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 100px;
+    margin:0;
     
     
 }
@@ -10,10 +13,8 @@ body{
     padding:0;
     
 }
-h1{
-    color:black;
-    margin:0;
-}
+
+
 .container{
     background-image:url(https://i.ibb.co/2Pv2CBq/image.jpg) ;
 }
@@ -23,13 +24,20 @@ h1{
     background-color: white;
 }
 h2{
-    text-align: center
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
 }
 p{
-    text-align: center 
+    text-align: center ;
+    font-size: 20px;
+    padding-bottom: 20px;
 }
 li{
      
+}
+.img{
+text-align: center;
 }
 
 .header{
